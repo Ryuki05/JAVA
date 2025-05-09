@@ -1,3 +1,4 @@
+package my;
 // import java.util.Random;
 
 class Chinchiro {
