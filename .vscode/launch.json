@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bmi2",
+            "request": "launch",
+            "mainClass": "java_workspace.Bmi2",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Omikuji",
+            "request": "launch",
+            "mainClass": "java_workspace.Omikuji",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Switch_Sample",
+            "request": "launch",
+            "mainClass": "java_workspace.Switch_Sample",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Janken01",
+            "request": "launch",
+            "mainClass": "java_workspace.Janken01",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Logical",
+            "request": "launch",
+            "mainClass": "java_workspace.Logical",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "If2",
+            "request": "launch",
+            "mainClass": "java_workspace.If2",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "If",
+            "request": "launch",
+            "mainClass": "java_workspace.If",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Related",
+            "request": "launch",
+            "mainClass": "java_workspace.Related",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Related",
+            "request": "launch",
+            "mainClass": "Related",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
             "name": "Bmi",
             "request": "launch",
             "mainClass": "practice.Bmi",
