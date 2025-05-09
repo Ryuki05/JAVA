@@ -1,0 +1,115 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Bmi",
+            "request": "launch",
+            "mainClass": "practice.Bmi",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Datatype",
+            "request": "launch",
+            "mainClass": "java_workspace.Datatype",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Turukame",
+            "request": "launch",
+            "mainClass": "practice.Turukame",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Rand",
+            "request": "launch",
+            "mainClass": "java_workspace.Rand",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Sample2",
+            "request": "launch",
+            "mainClass": "java_workspace.Sample2",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Chinchiro",
+            "request": "launch",
+            "mainClass": "Chinchiro",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Jihanki",
+            "request": "launch",
+            "mainClass": "Jihanki",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Jisho",
+            "request": "launch",
+            "mainClass": "Jisho",
+            "projectName": "JAVA_20ce323d",
+            "args": [
+                "一番目の引数"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "List1",
+            "request": "launch",
+            "mainClass": "List1",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Omikuji",
+            "request": "launch",
+            "mainClass": "Omikuji",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Scan",
+            "request": "launch",
+            "mainClass": "Scan",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "java_workspace.Sample",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "part1.Hello",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Hello2",
+            "request": "launch",
+            "mainClass": "part1.Hello2",
+            "projectName": "JAVA_20ce323d"
+        }
+    ]
+}
