@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArraySample2",
+            "request": "launch",
+            "mainClass": "java_workspace.ArraySample2",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "ArraySample01",
+            "request": "launch",
+            "mainClass": "java_workspace.ArraySample01",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "NumHitGame",
+            "request": "launch",
+            "mainClass": "java_workspace.NumHitGame",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "BreakSample02",
+            "request": "launch",
+            "mainClass": "java_workspace.BreakSample02",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "WhileSample2",
+            "request": "launch",
+            "mainClass": "java_workspace.WhileSample2",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "ForSample2",
+            "request": "launch",
+            "mainClass": "java_workspace.ForSample2",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileSample",
+            "request": "launch",
+            "mainClass": "java_workspace.DoWhileSample",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "WhileSample01",
+            "request": "launch",
+            "mainClass": "java_workspace.WhileSample01",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "ForSample01",
+            "request": "launch",
+            "mainClass": "java_workspace.ForSample01",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
             "name": "Bmi2",
             "request": "launch",
             "mainClass": "java_workspace.Bmi2",
