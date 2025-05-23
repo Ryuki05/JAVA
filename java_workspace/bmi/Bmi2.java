@@ -1,4 +1,4 @@
-package java_workspace;
+package java_workspace.bmi;
 
 import java.util.Scanner;
 

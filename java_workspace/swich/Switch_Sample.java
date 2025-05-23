@@ -1,4 +1,4 @@
-package java_workspace;
+package java_workspace.swich;
 
 public class Switch_Sample {
     public static void main(String[] args) {

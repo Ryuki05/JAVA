@@ -1,4 +1,4 @@
-package java_workspace;
+package java_workspace.array;
 
 public class ArraySample2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java_workspace;
+package java_workspace.if_statement;
 
 import java.util.Random;
 

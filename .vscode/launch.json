@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Janken03",
+            "request": "launch",
+            "mainClass": "practice.Janken03",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Practice02",
+            "request": "launch",
+            "mainClass": "practice.Practice02",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "Practice01",
+            "request": "launch",
+            "mainClass": "practice.Practice01",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "ArraySample04",
+            "request": "launch",
+            "mainClass": "java_workspace.array.ArraySample04",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
+            "name": "ArraySample03",
+            "request": "launch",
+            "mainClass": "java_workspace.array.ArraySample03",
+            "projectName": "JAVA_20ce323d"
+        },
+        {
+            "type": "java",
             "name": "ArraySample2",
             "request": "launch",
             "mainClass": "java_workspace.ArraySample2",

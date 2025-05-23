@@ -1,4 +1,3 @@
-package java_workspace;
 
 public class ForSample01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java_workspace;
+package java_workspace.array;
 
 public class ArraySample01 {
     public static void main(String[] args) {
@@ -10,6 +10,7 @@ public class ArraySample01 {
         numbers[2] = 2;
         numbers[3] = 3;
         numbers[4] = 4;
+
         System.out.println(numbers);
         System.out.println(numbers[0]);
         System.out.println(numbers[1]);

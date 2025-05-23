@@ -1,4 +1,4 @@
-package java_workspace;
+package java_workspace.sample;
 
 public class Sample2 {
     public static void main(String[] args) {

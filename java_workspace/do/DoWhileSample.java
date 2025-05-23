@@ -1,5 +1,3 @@
-package java_workspace;
-
 public class DoWhileSample {
     public static void main(String[] args) {
         int i = 0;

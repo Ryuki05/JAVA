@@ -1,9 +1,9 @@
-package java_workspace;
+package java_workspace.janken;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class Janken01 {
+public class Janken02 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String user = "";
@@ -25,13 +25,29 @@ public class Janken01 {
         int num = random.nextInt(3);
 
         String pc = "";
-        if (num == 0) {
-            pc = "グー";
-        } else if (num == 1) {
-            pc = "チョキ";
-        } else {
-            pc = "パー";
+        // if (num == 0) {
+        // pc = "グー";
+        // } else if (num == 1) {
+        // pc = "チョキ";
+        // } else {
+        // pc = "パー";
+        // }
+
+        switch (pc) {
+            case "0":
+                pc = "グー";
+                break;
+            case "1":
+                pc = "チョキ";
+                break;
+            case "2":
+                pc = "パー";
+                break;
+
+            default:
+                break;
         }
+
         System.out.println("PC:" + pc);
         String result = "";
         if (user.equals(pc)) {
