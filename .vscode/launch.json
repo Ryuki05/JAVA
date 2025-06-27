@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "JAVA"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserMain",
+            "request": "launch",
+            "mainClass": "UserMain",
+            "projectName": "JAVA"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersonMain2",
+            "request": "launch",
+            "mainClass": "PersonMain2",
+            "projectName": "JAVA"
+        },
+        {
+            "type": "java",
+            "name": "Launch Omikuji",
+            "request": "launch",
+            "mainClass": "java_workspace.Omikuji",
+            "projectName": "JAVA_210b9ded"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "part1.Hello",
+            "projectName": "JAVA_210b9ded"
+        },
+        {
+            "type": "java",
             "name": "Janken03",
             "request": "launch",
             "mainClass": "practice.Janken03",
